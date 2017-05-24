@@ -2,7 +2,10 @@
 
 Battle against starfish. 
 
-How to Play:
+Can be played here: https://kmui2.github.io/Struggle-in-the-Aquarium/ 
+
+
+## How to Play:
 
 Use WASD or arrow keys to control fish. Left and right rotate the fish and up and down moves forward and backwards repsectively. 
 Space bar shoots bubbles.
